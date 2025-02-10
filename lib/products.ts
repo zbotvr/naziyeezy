@@ -8,10 +8,10 @@ export interface Product {
 // and are stored in a public Vercel Blob storage bucket
 export const products: Product[] = [
   {
-    id: 'ts-01-white',
-    name: 'T-Shirt 01',
+    id: 'bully-album-01',
+    name: 'BULLY',
     image:
-      'https://6gy9systudbmcbju.public.blob.vercel-storage.com/ts-white-P2VTrySg3IQ4gdu17JGSrQ8RdLDgTm.png',
+      'https://media-hosting.imagekit.io//84a0166f5f4c4bfe/3c6b4c8e4eca1d6319f42b2c05536831.833x833x1.jpg?Expires=1833776604&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=xVJuT405R0yFqSHDz89sgBQMhj2FIvcnDiKK1g3c8qwd5gug-RQUEXYXB2wDEjCH1CemJx~BwJkBzo6OTjNd~-moIbk-uA5FMwBC73p1-YT5fHZqQCMvgm-wSyP3Okwd9T2XXzYhPXmIt81LdKfbUID1WG4aj4H2mNj1pHa7y-ckNcXYcs4XCjFWPFkfo~ONWfxm~aDO~0cTfM9tTTFlEBL6PD58PQEQbWIrP0b3JGrj3l1ileS-EPxSDpaz1vqzn5Q~yHzJkpJIqpQjYz7WkqzWfJZe7KU4KK~99o27IZPQuW9igkY2CldVbZMjdK9HHXuW7aHSFeaZqac9~DIXbA__',
   },
   {
     id: 'ts-02-white',
