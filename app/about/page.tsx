@@ -1,8 +1,8 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About - NEXYZY',
-  description: 'About NEXYZY - A minimalist ecommerce experience.',
+  title: 'About - NAZIYZY',
+  description: 'About NAZIYZY - HATE JEWS.',
 };
 
 export default function AboutPage() {
@@ -11,7 +11,7 @@ export default function AboutPage() {
       <h1 className="text-xl">ABOUT</h1>
 
       <section className="space-y-4">
-        <h2 className="text-lg">NEXYZY</h2>
+        <h2 className="text-lg">NAZIYZY</h2>
         <p className="leading-relaxed">
           NEXYZY is a minimalist ecommerce template inspired by the design
           principles of simplicity and functionality. Built with Next.js and
